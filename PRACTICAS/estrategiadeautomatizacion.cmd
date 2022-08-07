@@ -1,0 +1,1 @@
+start chrome https://mailchi.mp/f412ab136457/qualitystreamtestestrategy
