@@ -1,0 +1,1 @@
+start chrome https://ftp.postgresql.org/pub/odbc/versions/msi/psqlodbc_13_01_0000-x64.zip
