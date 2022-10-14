@@ -1,2 +1,2 @@
-@java -jar Prueba1.jar
+@java -jar ALQUILAPC.jar
 @pause ENTER PARA CONTINUAR
