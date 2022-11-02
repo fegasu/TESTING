@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package prueba1;
+
 import java.util.Scanner;   
 
 /**
  *
  * @author JOSE F GALINDO
  */
-public class Prueba1 {
+public class Prueba1{
 
     /**
      * @param args the command line arguments
