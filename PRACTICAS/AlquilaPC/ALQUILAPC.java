@@ -72,15 +72,15 @@ public class ALQUILAPC{
 
     }
     static void EquiposAlquiler(){
-        System.out.print("NÝmero de equipos que desea alquilar:");
+        System.out.print("Numero de equipos que desea alquilar:");
         equipos = entradaDatos.nextInt();        
     }
     static void DiasAlquiler(){
-        System.out.print("NÝmero de dÝas que desea tomar el alquiler:");
+        System.out.print("Numero de Dias que desea tomar el alquiler:");
         diasal = entradaDatos.nextInt();        
     }
     static void DiasAdicionales(){
-        System.out.print("NÝmero de dÝas adicionales que toma el alquiler:");
+        System.out.print("Numero de Dias adicionales que toma el alquiler:");
         diasad = entradaDatos.nextInt();        
     }
     static void DatosBasicos(){
@@ -95,10 +95,10 @@ public class ALQUILAPC{
         System.out.println("Nombre:"+nom);
         System.out.println("Tipo de servicio:"+Tipo);
         System.out.println("Numero de Equipos:"+equipos);
-        System.out.println("No. DÝas Iniciales:"+diasal);
+        System.out.println("No. Dias Iniciales:"+diasal);
         System.out.println("Valor Alquiler: $"+CalculoAlquiler());
-        System.out.println("No. DÝas adicionales:"+diasad);
-        System.out.println("Valor dÝas adicionales: $"+CalculoAlquilerAdicional());
+        System.out.println("No. Dias adicionales:"+diasad);
+        System.out.println("Valor Dias adicionales: $"+CalculoAlquilerAdicional());
         System.out.println("Descuentos: $"+CalculoDescuento());
         System.out.println("Domicilio: $"+CalculoDomicilio());
         System.out.println("Total a pagar: $"+CalcularValores());
