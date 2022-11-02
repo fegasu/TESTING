@@ -94,7 +94,7 @@ public class ALQUILAPC{
         System.out.println("\t\t\tA L Q U I L A P C");
         System.out.println("Nombre:"+nom);
         System.out.println("Tipo de servicio:"+Tipo);
-        System.out.println("Numero de Equipos:"+equipos);
+        System.out.println("Núcmero de Equipos:"+equipos);
         System.out.println("No. Dias Iniciales:"+diasal);
         System.out.println("Valor Alquiler: $"+CalculoAlquiler());
         System.out.println("No. Dias adicionales:"+diasad);
