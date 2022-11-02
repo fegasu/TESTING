@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package senaparking;
 
 /**
  *
@@ -18,10 +17,7 @@ package senaparking;
  * TITULACION	:ANALISIS Y DESARROLLO DE SISTEMAS DE INFORMACION V102
  *************************************************************************************************************/
 	import java.awt.*;
-    
 	import java.awt.event.*;
-
-
 	 class ventana extends Frame implements ActionListener{
 		 static TextField t1,t2,t3,t4;
 		 static Button b1,b2; 
@@ -253,15 +249,13 @@ package senaparking;
 
 		}
 
-	public class SenaParking {
-
-	 public static void main(String[] args) {
-		
+	public class SenaParking{
+		public static void main(String[] args){		
 		 ventana v=new ventana();
 	        v.setSize(650, 550);
 	        
 	        v.Muestra();
-	        v.show();
+	        //v.show();
 	        
 	       
 	}
