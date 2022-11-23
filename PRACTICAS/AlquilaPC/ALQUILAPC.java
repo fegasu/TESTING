@@ -5,7 +5,6 @@
  */
 
 import java.util.Scanner;   
-
 /**
  *
  * @author JOSE F GALINDO
@@ -17,11 +16,11 @@ public class ALQUILAPC{
      */
     static Scanner entradaDatos = new Scanner(System.in);
     static String nom;
-    static int opcion=0;
-    static int equipos;
+    static int opcion=1;
+    static int equipos=5;
     static double domicilio;
-    static int diasal;
-    static int diasad;
+    static int diasal=5;
+    static int diasad=2;
     static double alqui;
     static String Tipo;
     static double descuentos=0;
